@@ -4,6 +4,8 @@ A simple Whatsapp User bot
 
 ## Setup
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/m3JYK8?referralCode=DIQMbr)
+
 1. ### Deploy on Heroku
    1. Click [SCAN](https://levanter.onrender.com/md) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
    2. You will get a session id in whatsapp, copy id only.
